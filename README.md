@@ -3,7 +3,7 @@
 [中国国内の感染者数](https://htmlpreview.github.io/?https://github.com/Olivine-Ryo/coronavirus_map/blob/master/china_confirmed.html)
 
 ## 二次ソース
-[米ジョンズ・ホプキンス大学 ダッシュボード](https://gisanddata.maps.arcgis.com/apps/opsdashboard/index.html#/bda7594740fd40299423467b48e9ecf6)  
+[米ジョンズ・ホプキンス大学 ダッシュボード](https://gisanddata.maps.arcgis.com/apps/opsdashboard/index.html#/bda7594740fd40299423467b48e9ecf6)    
 [米ジョンズ・ホプキンス大学 スプレッドシート](https://docs.google.com/spreadsheets/d/1yZv9w9zRKwrGTaR-YzmAqMefw4wMlaXocejdxZaTs6w/edit#gid=1979823633)
 
 ## 一次ソース
