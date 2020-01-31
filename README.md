@@ -1,6 +1,7 @@
 ## グラフ
-![日本国内の感染者](https://github.com/Olivine-Ryo/coronavirus_map/blob/master/japan_animation_small.gif)
 [日本国内の感染者数](https://htmlpreview.github.io/?https://github.com/Olivine-Ryo/coronavirus_map/blob/master/japan_confirmed.html)  
+![日本国内の感染者](https://github.com/Olivine-Ryo/coronavirus_map/blob/master/japan_animation_small.gif)   
+
 [国別の感染者数](https://htmlpreview.github.io/?https://github.com/Olivine-Ryo/coronavirus_map/blob/master/world_confirmed.html)  
 [中国国内の感染者数](https://htmlpreview.github.io/?https://github.com/Olivine-Ryo/coronavirus_map/blob/master/china_confirmed.html)
 
